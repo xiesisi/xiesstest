@@ -1,4 +1,5 @@
 OCDC-OCHadoop-V02B00C00-beta-20140227
+
 1、产品完成情况
 根据OCDC产品的发布计划，当前redmine中的OCDC-OCHadoop-V02B00C00-beta-20140227的需求/BUG状态统计如下: 
 问题总数： 13个（需 求：3个，BUG：10个，DB变更：0个） ，关闭：13个，未关闭：0个。
